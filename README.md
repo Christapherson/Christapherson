@@ -26,7 +26,7 @@ My 90-day intensive program to transition from IT Support Engineer to Solutions 
 ## 🏗️ Recent Projects
 
 ### Week 1 Capstone: S3 + CloudFront Static Website
-**[Live Demo](https://d3sow6jxmgyxlc.cloudfront.net/)** | [Documentation](2025-10-18.md)
+**[Live Demo](https://d3sow6jxmgyxlc.cloudfront.net/)** | [Documentation](Project #1 2025-10-18.md)
 
 - Built production-grade static website infrastructure
 - Configured S3 bucket for static website hosting
