@@ -5,7 +5,7 @@
 ![AWS AI Practitioner](https://img.shields.io/badge/AWS-AI%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![AWS Machine Learning Associate](https://img.shields.io/badge/AWS-ML%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-My intensive program to transition from IT Support Engineer ($70K) to Solutions Architect or Technical Account Manager ($110-130K).
+My intensive program to transition from IT Support Engineer ($70K) to Solutions Architect or Technical Account Manager.
 
 ## 📅 Timeline & Strategy
 
